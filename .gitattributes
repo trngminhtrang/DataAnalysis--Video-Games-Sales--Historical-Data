@@ -1,2 +1,2 @@
 *.rmd linguist-detectable=True
-*.rmb linguist-language=R
+*.rm linguist-language=R
